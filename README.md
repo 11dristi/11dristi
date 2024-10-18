@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https://www.linkedin.com/in/dristi-dhakal-a91a68287/</a>
+<a href=https://www.linkedin.com/in/dristi-dhakal/</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
