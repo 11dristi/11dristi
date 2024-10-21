@@ -1,7 +1,7 @@
 
 ![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif) 
-<h1 align="center">Hi, I'm Dristi Dhakal </h1>
-<h3 align="center">A passionate IT individual from Nepal</h3>
+<h1 align="center">Hi, I'm Dristi Dhakal. </h1>
+<h3 align="center">A passionate IT individual from Nepal.</h3>
 Self-driven and knowledgeable BIM (Bachelors of Information management) student with 
                 demonstrated experience in developing user-friendly
                  software applications, coding and testing features, and providing IT support.
@@ -9,7 +9,7 @@ Self-driven and knowledgeable BIM (Bachelors of Information management) student 
 
 
 
-- 🌱 I’m currently learning **Figma, HTML,CSS,Photoshop**
+- 🌱 I’m currently learning **Figma, HTML,CSS,Photoshop,SEO**
 
 - 💬 Ask me about ** UI/UX, Graphic Design,SEO,Digital Marketing**
 
