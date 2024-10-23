@@ -9,7 +9,7 @@ Self-driven and knowledgeable BIM (Bachelors of Information management) student 
 
 
 
-- 🌱 I’m currently learning **Figma, HTML,CSS,Photoshop,SEO**
+- 🌱 I’m currently learning **Figma, HTML,CSS,Photoshop,SEO.**
 
 - 💬 Ask me about ** UI/UX, Graphic Design,SEO,Digital Marketing**
 
