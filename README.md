@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Dristi Dhakal. </h1>
 <h3 align="center">A passionate IT individual from Nepal.</h3>
 Self-driven and knowledgeable BIM (Bachelors of Information management) student with 
-                demonstrated experience in developing user-friendly
+                demonstrated experience in developing user-friendly,
                  software applications, coding and testing features, and providing IT support.
 <img align="right" alt="Coding" width="400" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
 
